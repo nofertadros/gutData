@@ -1,0 +1,17 @@
+﻿keyword,generic_name,drug_class
+advil,ibuprofen,NSAID
+motrin,ibuprofen,NSAID
+ibuprofen,ibuprofen,NSAID
+aleve,naproxen,NSAID
+naproxen,naproxen,NSAID
+prilosec,omeprazole,PPI
+omeprazole,omeprazole,PPI
+nexium,esomeprazole,PPI
+metformin,metformin,Antidiabetic
+amoxicillin,amoxicillin,Antibiotic
+augmentin,amoxicillin,Antibiotic
+cipro,ciprofloxacin,Antibiotic
+penicillin,penicillin,Antibiotic
+claritin,loratadine,Antihistamine
+benadryl,diphenhydramine,Antihistamine
+zyrtec,cetirizine,Antihistamine
