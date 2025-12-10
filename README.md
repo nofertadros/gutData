@@ -47,5 +47,6 @@ This project analyzes 12,562 human samples to determine the impact of antibiotic
 
 6. **Run the Product (Recommender):**
    * `python recommender.py` (Finds your "Healthy Twin")
-   * `python recommender_visual.py` (Finds your "Healthy Twin on a GUI")
+   * `python recommender_visual.py` (Finds your "Healthy Twin on a GUI (tkinter)")
+
 
